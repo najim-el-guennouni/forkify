@@ -14,4 +14,4 @@ Welcome to Forkify, a web application that allows you to search for recipes and 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/forkify.git
+   git clone https://github.com/najim-el-guennouni/forkify.git

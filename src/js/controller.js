@@ -33,6 +33,7 @@ const showRecipe = async function () {
       ingredients: recipe.ingredients
     }
     console.log(recipe);
+    
   } catch (err) {
     alert(err);
   }

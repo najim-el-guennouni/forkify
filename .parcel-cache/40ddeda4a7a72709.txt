@@ -1,20 +1,20 @@
-9606
+9616
 65C:\laragon\www\forkify\node_modules\svgo\plugins\plugins-types.ts133419370468072230 0
 99C:\laragon\www\forkify\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133419370401480415 0
 63C:\laragon\www\forkify\node_modules\is-binary-path\package.json133419370459700267 0
 83C:\laragon\www\forkify\node_modules\core-js\modules\es.typed-array.last-index-of.js133419370446468865 0
 56C:\laragon\www\forkify\node_modules\lmdb\dependencies\v8133419370462111926 1
 70C:\laragon\www\forkify\node_modules\type-fest\source\package-json.d.ts133419370468920978 0
-27C:\laragon\www\forkify\dist133419437300810436 1
+27C:\laragon\www\forkify\dist133419447288599531 1
 75C:\laragon\www\forkify\node_modules\core-js\stable\symbol\async-iterator.js133419370451054414 0
 71C:\laragon\www\forkify\node_modules\@parcel\runtime-js\lib\JSRuntime.js133419370400666557 0
 73C:\laragon\www\forkify\node_modules\core-js\modules\esnext.global-this.js133419370447020753 0
 42C:\laragon\www\forkify\node_modules\@babel133419370388848837 1
 59C:\laragon\www\forkify\node_modules\source-map\package.json133419370467451035 0
+81C:\laragon\www\forkify\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133419370454410079 0
 101C:\laragon\www\forkify\node_modules\@parcel\transformer-js\node_modules\regenerator-runtime\README.md133419370401949012 0
 34C:\laragon\www\forkify\.prettierrc133419370386687191 0
 52C:\laragon\www\forkify\node_modules\anymatch\LICENSE133419370423664731 0
-81C:\laragon\www\forkify\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133419370454410079 0
 85C:\laragon\www\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133419370461646760 0
 81C:\laragon\www\forkify\node_modules\core-js\modules\esnext.async-iterator.find.js133419370446845154 0
 71C:\laragon\www\forkify\node_modules\css-tree\lib\generator\sourceMap.js133419370454460359 0
@@ -61,7 +61,7 @@
 64C:\laragon\www\forkify\node_modules\@parcel\utils\src\urlJoin.js133419370415807506 0
 92C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133419370457545038 0
 76C:\laragon\www\forkify\node_modules\core-js\internals\to-positive-integer.js133419370444783034 0
-35C:\laragon\www\forkify\package.json133419370469758187 0
+35C:\laragon\www\forkify\package.json133419441154554350 0
 110C:\laragon\www\forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133419370401098410 0
 66C:\laragon\www\forkify\node_modules\nth-check\lib\esm\index.js.map133419370464284478 0
 58C:\laragon\www\forkify\node_modules\entities\lib\generated133419370458691018 1
@@ -106,7 +106,7 @@
 44C:\laragon\www\forkify\node_modules\argparse133419370423724839 1
 70C:\laragon\www\forkify\node_modules\core-js\full\set\is-superset-of.js133419370441731066 0
 74C:\laragon\www\forkify\node_modules\css-select\node_modules\dom-serializer133419370452250779 1
-43C:\laragon\www\forkify\node_modules\@parcel133419370416024977 1
+43C:\laragon\www\forkify\node_modules\@parcel133419441153779710 1
 66C:\laragon\www\forkify\node_modules\csso\cjs\clean\Declaration.cjs133419370455371456 0
 83C:\laragon\www\forkify\node_modules\core-js\actual\object\get-own-property-names.js133419370432193838 0
 32C:\laragon\www\forkify\README.md133419370386697169 0
@@ -117,7 +117,7 @@
 83C:\laragon\www\forkify\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133419370459379929 0
 62C:\laragon\www\forkify\node_modules\core-js\actual\array\of.js133419370430566520 0
 55C:\laragon\www\forkify\node_modules\semver\package.json133419370466965338 0
-54C:\laragon\www\forkify\node_modules\.package-lock.json133419370387394565 0
+54C:\laragon\www\forkify\node_modules\.package-lock.json133419441154912307 0
 85C:\laragon\www\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist133419370396291427 1
 92C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\selector.cjs133419370456700535 0
 64C:\laragon\www\forkify\node_modules\source-map\lib\quick-sort.js133419370467395797 0
@@ -132,14 +132,14 @@
 73C:\laragon\www\forkify\node_modules\core-js\proposals\reflect-metadata.js133419370448970567 0
 58C:\laragon\www\forkify\node_modules\normalize-path\LICENSE133419370464115379 0
 64C:\laragon\www\forkify\node_modules\core-js\actual\json\index.js133419370431859680 0
-35C:\laragon\www\forkify\node_modules133419370469687751 1
+35C:\laragon\www\forkify\node_modules133419441153749739 1
 66C:\laragon\www\forkify\node_modules\core-js\features\map\key-of.js133419370437568726 0
 70C:\laragon\www\forkify\node_modules\core-js\actual\string\match-all.js133419370432671344 0
 87C:\laragon\www\forkify\node_modules\core-js\internals\function-uncurry-this-accessor.js133419370443648958 0
 64C:\laragon\www\forkify\node_modules\css-tree\lib\utils\string.js133419370455120239 0
 83C:\laragon\www\forkify\node_modules\@swc\helpers\cjs\_class_private_method_init.cjs133419370422045222 0
 99C:\laragon\www\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\units.json133419370396647759 0
-40C:\laragon\www\forkify\package-lock.json133419370469748087 0
+40C:\laragon\www\forkify\package-lock.json133419441154529025 0
 66C:\laragon\www\forkify\node_modules\semver\functions\prerelease.js133419370466870276 0
 86C:\laragon\www\forkify\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133419370422703232 0
 77C:\laragon\www\forkify\node_modules\core-js\actual\array\virtual\find-last.js133419370430757841 0
@@ -179,8 +179,8 @@
 31C:\laragon\www\forkify\src\sass133419370469888990 1
 60C:\laragon\www\forkify\node_modules\css-tree\cjs\version.cjs133419370454226915 0
 75C:\laragon\www\forkify\node_modules\@swc\helpers\_\_class_private_field_get133419370421441956 1
-42C:\laragon\www\forkify\src\sass\_base.scss133419370469838208 0
 93C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133419370399960437 0
+42C:\laragon\www\forkify\src\sass\_base.scss133419370469838208 0
 66C:\laragon\www\forkify\node_modules\core-js\actual\array\values.js133419370430687359 0
 92C:\laragon\www\forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133419370461630493 0
 57C:\laragon\www\forkify\node_modules\chalk\source\index.js133419370429867755 0
@@ -189,7 +189,7 @@
 71C:\laragon\www\forkify\node_modules\caniuse-lite\data\features\fetch.js133419370425667424 0
 67C:\laragon\www\forkify\node_modules\sass\types\util\promise_or.d.ts133419370466599062 0
 67C:\laragon\www\forkify\node_modules\core-js\internals\math-trunc.js133419370444111897 0
-49C:\laragon\www\forkify\src\js\views\recipeView.js133419437292439862 0
+49C:\laragon\www\forkify\src\js\views\recipeView.js133419447287428114 0
 60C:\laragon\www\forkify\node_modules\js-yaml\lib\type\bool.js133419370459988733 0
 71C:\laragon\www\forkify\node_modules\utility-types\dist\utility-types.js133419370469491868 0
 66C:\laragon\www\forkify\node_modules\core-js\features\set\reduce.js133419370438405663 0
@@ -221,7 +221,7 @@
 53C:\laragon\www\forkify\node_modules\msgpackr\index.js133419370463607947 0
 55C:\laragon\www\forkify\node_modules\core-js\full\string133419370442040643 1
 51C:\laragon\www\forkify\src\sass\_searchResults.scss133419370469878979 0
-53C:\laragon\www\forkify\node_modules\@msgpackr-extract133419370389731447 1
+53C:\laragon\www\forkify\node_modules\@msgpackr-extract133419441153779710 1
 78C:\laragon\www\forkify\node_modules\core-js\actual\object\define-properties.js133419370432153739 0
 44C:\laragon\www\forkify\src\sass\_upload.scss133419370469888990 0
 66C:\laragon\www\forkify\node_modules\mdn-data\css\units.schema.json133419370463146586 0
@@ -268,7 +268,7 @@
 39C:\laragon\www\forkify\src\img\logo.png133419370469798189 0
 59C:\laragon\www\forkify\node_modules\supports-color\index.js133419370467584589 0
 69C:\laragon\www\forkify\node_modules\core-js\actual\string\fontsize.js133419370432629262 0
-48C:\laragon\www\forkify\dist\favicon.8b2f57bf.png133419437300599449 0
+48C:\laragon\www\forkify\dist\favicon.8b2f57bf.png133419446930274681 0
 63C:\laragon\www\forkify\node_modules\core-js\full\global-this.js133419370440348558 0
 63C:\laragon\www\forkify\node_modules\core-js\actual\url\index.js133419370433715427 0
 71C:\laragon\www\forkify\node_modules\postcss-value-parser\lib\index.d.ts133419370464988953 0
@@ -313,14 +313,14 @@
 60C:\laragon\www\forkify\node_modules\core-js\full\set\some.js133419370441761473 0
 91C:\laragon\www\forkify\node_modules\@babel\highlight\node_modules\supports-color\browser.js133419370389115608 0
 75C:\laragon\www\forkify\node_modules\utility-types\dist\utility-types.js.map133419370469501878 0
-40C:\laragon\www\forkify\node_modules\@swc133419370423430861 1
+40C:\laragon\www\forkify\node_modules\@swc133419441153779710 1
 67C:\laragon\www\forkify\node_modules\caniuse-lite\data\regions\CI.js133419370428317347 0
 79C:\laragon\www\forkify\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133419370462649017 0
 90C:\laragon\www\forkify\node_modules\core-js\internals\object-prototype-accessors-forced.js133419370444300246 0
 78C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\node133419370456670531 1
 67C:\laragon\www\forkify\node_modules\core-js\actual\instance\trim.js133419370431739058 0
 90C:\laragon\www\forkify\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133419370424728067 0
-41C:\laragon\www\forkify\node_modules\@lmdb133419370389518818 1
+41C:\laragon\www\forkify\node_modules\@lmdb133419441153789749 1
 69C:\laragon\www\forkify\node_modules\core-js\modules\es.promise.any.js133419370445795793 0
 45C:\laragon\www\forkify\node_modules\@trysound133419370423495909 1
 75C:\laragon\www\forkify\node_modules\@swc\helpers\esm\_is_native_function.js133419370422683229 0
@@ -407,7 +407,6 @@
 56C:\laragon\www\forkify\node_modules\postcss-value-parser133419370465049182 1
 75C:\laragon\www\forkify\node_modules\core-js\features\array\virtual\slice.js133419370436639413 0
 56C:\laragon\www\forkify\node_modules\lmdb\src\lmdb-js.cpp133419370462875583 0
-75C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim-end.js133419370442216396 0
 54C:\laragon\www\forkify\node_modules\css-tree\lib\lexer133419370454550650 1
 53C:\laragon\www\forkify\node_modules\lru-cache\LICENSE133419370462966026 0
 78C:\laragon\www\forkify\node_modules\@parcel\core\test\fixtures\invalid-engines133419370392000867 1
@@ -524,6 +523,10 @@
 65C:\laragon\www\forkify\node_modules\core-js\features\map\merge.js133419370437578754 0
 75C:\laragon\www\forkify\node_modules\core-js\stable\function\virtual\bind.js133419370449709980 0
 71C:\laragon\www\forkify\node_modules\msgpackr\dist\index-no-eval.cjs.map133419370463397670 0
+55C:\laragon\www\forkify\node_modules\parse-json\index.js133419370464697773 0
+46C:\laragon\www\forkify\node_modules\fractional133419441153468488 1
+78C:\laragon\www\forkify\node_modules\css-select\lib\pseudo-selectors\index.d.ts133419370452040329 0
+54C:\laragon\www\forkify\node_modules\lmdb\dict\dict.txt133419370462121916 0
 47C:\laragon\www\forkify\node_modules\glob-parent133419370458913149 1
 73C:\laragon\www\forkify\node_modules\core-js\internals\regexp-get-flags.js133419370444410651 0
 64C:\laragon\www\forkify\node_modules\core-js\actual\math\index.js133419370431973091 0
@@ -652,6 +655,7 @@
 78C:\laragon\www\forkify\node_modules\posthtml\node_modules\posthtml-parser\dist133419370465263003 1
 72C:\laragon\www\forkify\node_modules\css-tree\lib\syntax\scope\default.js133419370454997173 0
 72C:\laragon\www\forkify\node_modules\core-js\actual\math\to-string-tag.js133419370432003095 0
+71C:\laragon\www\forkify\node_modules\fractional\releases\fraction-0.1.js133419441153488449 0
 52C:\laragon\www\forkify\node_modules\msgpackr-extract133419370463357695 1
 53C:\laragon\www\forkify\node_modules\core-js\README.md133419370430265012 0
 65C:\laragon\www\forkify\node_modules\core-js\features\math\cosh.js133419370437650090 0
@@ -730,8 +734,8 @@
 76C:\laragon\www\forkify\node_modules\abortcontroller-polyfill\src\polyfill.js133419370423611400 0
 70C:\laragon\www\forkify\node_modules\core-js\stable\string\trim-left.js133419370450800579 0
 69C:\laragon\www\forkify\node_modules\weak-lru-cache\tests\benchmark.js133419370469587103 0
-46C:\laragon\www\forkify\node_modules\picocolors133419370464838272 1
 97C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\a\package.json133419370399965842 0
+46C:\laragon\www\forkify\node_modules\picocolors133419370464838272 1
 51C:\laragon\www\forkify\node_modules\source-map\dist133419370467325368 1
 77C:\laragon\www\forkify\node_modules\@swc\helpers\esm\_wrap_async_generator.js133419370422830971 0
 96C:\laragon\www\forkify\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133419370465227590 0
@@ -1546,8 +1550,10 @@
 78C:\laragon\www\forkify\node_modules\css-select\node_modules\domutils\readme.md133419370452903368 0
 74C:\laragon\www\forkify\node_modules\caniuse-lite\data\features\wai-aria.js133419370427442550 0
 60C:\laragon\www\forkify\node_modules\semver\functions\sort.js133419370466900280 0
-70C:\laragon\www\forkify\node_modules\svgo\plugins\convertShapeToPath.js133419370467986344 0
 54C:\laragon\www\forkify\node_modules\msgpackr\struct.js133419370463698468 0
+68C:\laragon\www\forkify\node_modules\core-js\actual\url-search-params133419370433705424 1
+57C:\laragon\www\forkify\node_modules\fractional\index.html133419441153458502 0
+70C:\laragon\www\forkify\node_modules\svgo\plugins\convertShapeToPath.js133419370467986344 0
 72C:\laragon\www\forkify\node_modules\core-js\stable\typed-array\filter.js133419370451160574 0
 64C:\laragon\www\forkify\node_modules\svgo\plugins\inlineStyles.js133419370468016348 0
 73C:\laragon\www\forkify\node_modules\core-js\internals\get-substitution.js133419370443739170 0
@@ -1657,7 +1663,7 @@
 55C:\laragon\www\forkify\node_modules\picomatch\README.md133419370464878651 0
 52C:\laragon\www\forkify\node_modules\svgo\lib\svgo.js133419370467755416 0
 78C:\laragon\www\forkify\node_modules\core-js\modules\esnext.array.last-index.js133419370446744863 0
-45C:\laragon\www\forkify\dist\index.e37f48ea.js133419437300709978 0
+45C:\laragon\www\forkify\dist\index.e37f48ea.js133419447288534351 0
 61C:\laragon\www\forkify\node_modules\source-map-js\lib\util.js133419370467174924 0
 58C:\laragon\www\forkify\node_modules\mdn-data\l10n\index.js133419370463176827 0
 62C:\laragon\www\forkify\node_modules\nth-check\lib\compile.d.ts133419370464175895 0
@@ -1903,8 +1909,8 @@
 86C:\laragon\www\forkify\node_modules\core-js\full\object\get-own-property-descriptor.js133419370441277991 0
 58C:\laragon\www\forkify\node_modules\picomatch\lib\utils.js133419370464948851 0
 63C:\laragon\www\forkify\node_modules\sass\types\value\color.d.ts133419370466629049 0
-101C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133419370457648959 0
 79C:\laragon\www\forkify\node_modules\css-tree\lib\definition-syntax\tokenizer.js133419370454440071 0
+101C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133419370457648959 0
 82C:\laragon\www\forkify\node_modules\@swc\helpers\cjs\_class_private_method_set.cjs133419370422050340 0
 101C:\laragon\www\forkify\node_modules\@swc\helpers\cjs\_class_check_private_static_field_descriptor.cjs133419370421990183 0
 72C:\laragon\www\forkify\node_modules\css-tree\lib\syntax\config\parser.js133419370454671127 0
@@ -2152,9 +2158,6 @@
 82C:\laragon\www\forkify\node_modules\core-js\modules\esnext.iterator.constructor.js133419370447030787 0
 62C:\laragon\www\forkify\node_modules\core-js\full\array\with.js133419370439959973 0
 58C:\laragon\www\forkify\node_modules\path-type\package.json133419370464778166 0
-55C:\laragon\www\forkify\node_modules\parse-json\index.js133419370464697773 0
-78C:\laragon\www\forkify\node_modules\css-select\lib\pseudo-selectors\index.d.ts133419370452040329 0
-54C:\laragon\www\forkify\node_modules\lmdb\dict\dict.txt133419370462121916 0
 60C:\laragon\www\forkify\node_modules\is-binary-path\readme.md133419370459700267 0
 76C:\laragon\www\forkify\node_modules\css-tree\cjs\definition-syntax\index.cjs133419370453459600 0
 70C:\laragon\www\forkify\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133419370459463994 0
@@ -2350,6 +2353,7 @@
 79C:\laragon\www\forkify\node_modules\core-js\full\data-view\set-uint8-clamped.js133419370440145862 0
 84C:\laragon\www\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133419370461656825 0
 66C:\laragon\www\forkify\node_modules\nth-check\lib\esm\parse.js.map133419370464314488 0
+55C:\laragon\www\forkify\node_modules\fractional\releases133419441153503530 1
 59C:\laragon\www\forkify\node_modules\micromatch\package.json133419370463216800 0
 86C:\laragon\www\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133419370461696919 0
 57C:\laragon\www\forkify\node_modules\node-releases\LICENSE133419370464049834 0
@@ -2530,6 +2534,7 @@
 72C:\laragon\www\forkify\node_modules\@swc\helpers\_\_wrap_async_generator133419370421888527 1
 81C:\laragon\www\forkify\node_modules\@swc\helpers\esm\_async_generator_delegate.js133419370422461284 0
 57C:\laragon\www\forkify\node_modules\mdn-data\api\index.js133419370463006025 0
+56C:\laragon\www\forkify\node_modules\fractional\README.md133419441153358070 0
 71C:\laragon\www\forkify\node_modules\core-js\modules\es.number.is-nan.js133419370445495025 0
 65C:\laragon\www\forkify\node_modules\mdn-data\api\inheritance.json133419370463025992 0
 84C:\laragon\www\forkify\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133419370451963452 0
@@ -2698,9 +2703,9 @@
 72C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\README.md133419370455997729 0
 70C:\laragon\www\forkify\node_modules\core-js\es\object\lookup-getter.js133419370435023417 0
 69C:\laragon\www\forkify\node_modules\htmlnano\docs\docs\050-modules.md133419370459050003 0
+94C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules133419370399931408 1
 56C:\laragon\www\forkify\node_modules\json5\lib\unicode.js133419370460188185 0
 72C:\laragon\www\forkify\node_modules\core-js\features\suppressed-error.js133419370438863413 0
-94C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules133419370399931408 1
 68C:\laragon\www\forkify\node_modules\core-js\full\string\trim-left.js133419370442025540 0
 74C:\laragon\www\forkify\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133419370461981484 0
 75C:\laragon\www\forkify\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133419370454490449 0
@@ -2723,6 +2728,7 @@
 66C:\laragon\www\forkify\node_modules\js-yaml\lib\schema\failsafe.js133419370459958699 0
 72C:\laragon\www\forkify\node_modules\core-js\stable\string\virtual\sup.js133419370450969028 0
 73C:\laragon\www\forkify\node_modules\lmdb\dependencies\lz4\lib\dll\example133419370461971492 1
+59C:\laragon\www\forkify\node_modules\fractional\package.json133419441153317833 0
 95C:\laragon\www\forkify\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133419370461971492 0
 70C:\laragon\www\forkify\node_modules\core-js\internals\entry-virtual.js133419370443548597 0
 70C:\laragon\www\forkify\node_modules\core-js\modules\es.array.filter.js133419370445023956 0
@@ -3107,7 +3113,6 @@
 66C:\laragon\www\forkify\node_modules\htmlparser2\lib\index.d.ts.map133419370459494063 0
 85C:\laragon\www\forkify\node_modules\core-js\features\array\virtual\find-last-index.js133419370436519606 0
 77C:\laragon\www\forkify\node_modules\core-js\features\symbol\async-iterator.js133419370438883401 0
-75C:\laragon\www\forkify\node_modules\css-tree\lib\definition-syntax\parse.js133419370454430074 0
 85C:\laragon\www\forkify\node_modules\core-js\modules\es.symbol.is-concat-spreadable.js133419370446268130 0
 60C:\laragon\www\forkify\node_modules\htmlparser2\lib\index.js133419370459494063 0
 63C:\laragon\www\forkify\node_modules\core-js\es\instance\bind.js133419370434378693 0
@@ -3217,9 +3222,9 @@
 91C:\laragon\www\forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133419370459201053 0
 91C:\laragon\www\forkify\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133419370415155844 0
 74C:\laragon\www\forkify\node_modules\core-js\actual\string\virtual\small.js133419370432942100 0
-76C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim-left.js133419370442216396 0
 71C:\laragon\www\forkify\node_modules\core-js\modules\es.string.repeat.js133419370446122335 0
 92C:\laragon\www\forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133419370459211081 0
+76C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim-left.js133419370442216396 0
 65C:\laragon\www\forkify\node_modules\domhandler\lib\index.d.ts.map133419370458212666 0
 76C:\laragon\www\forkify\node_modules\core-js\features\instance\to-reversed.js133419370437301815 0
 60C:\laragon\www\forkify\node_modules\@parcel\fs\src\NodeFS.js133419370393620580 0
@@ -3276,6 +3281,19 @@
 54C:\laragon\www\forkify\node_modules\get-port\readme.md133419370458881693 0
 77C:\laragon\www\forkify\node_modules\core-js\stable\reflect\define-property.js133419370450430519 0
 58C:\laragon\www\forkify\node_modules\csso\lib\clean\Rule.js133419370455728084 0
+62C:\laragon\www\forkify\node_modules\fractional\array_mixins.js133419441153377976 0
+69C:\laragon\www\forkify\node_modules\core-js\actual\symbol\iterator.js133419370433093464 0
+77C:\laragon\www\forkify\node_modules\csso\node_modules\mdn-data\css\types.json133419370457846828 0
+88C:\laragon\www\forkify\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133419370400786691 0
+53C:\laragon\www\forkify\node_modules\core-js\full\math133419370441119492 1
+55C:\laragon\www\forkify\node_modules\fractional\index.js133419441153408253 0
+71C:\laragon\www\forkify\node_modules\core-js\modules\esnext.set.union.js133419370447769364 0
+80C:\laragon\www\forkify\node_modules\dom-serializer\node_modules\entities\LICENSE133419370458028736 0
+55C:\laragon\www\forkify\node_modules\fractional\tests.js133419441153428437 0
+83C:\laragon\www\forkify\node_modules\core-js\modules\es.object.prevent-extensions.js133419370445715397 0
+59C:\laragon\www\forkify\node_modules\core-js\stable\weak-map133419370451370752 1
+52C:\laragon\www\forkify\node_modules\dotenv\config.js133419370458447099 0
+71C:\laragon\www\forkify\node_modules\fractional\releases\fraction-0.2.js133419441153639003 0
 55C:\laragon\www\forkify\node_modules\fill-range\index.js133419370458851528 0
 78C:\laragon\www\forkify\node_modules\core-js\modules\esnext.composite-symbol.js133419370446940471 0
 73C:\laragon\www\forkify\node_modules\csso\cjs\replace\atrule\keyframes.cjs133419370455476769 0
@@ -3292,7 +3310,6 @@
 93C:\laragon\www\forkify\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133419370391920552 0
 111C:\laragon\www\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133419370398862273 0
 57C:\laragon\www\forkify\node_modules\escalade\package.json133419370458788477 0
-75C:\laragon\www\forkify\node_modules\css-tree\lib\definition-syntax\index.js133419370454420079 0
 81C:\laragon\www\forkify\node_modules\@swc\helpers\_\_write_only_error\package.json133419370421908531 0
 83C:\laragon\www\forkify\node_modules\core-js\internals\regexp-unsupported-dot-all.js133419370444420635 0
 54C:\laragon\www\forkify\node_modules\escalade\readme.md133419370458798337 0
@@ -3365,8 +3382,6 @@
 75C:\laragon\www\forkify\node_modules\core-js\full\function\is-constructor.js133419370440289916 0
 74C:\laragon\www\forkify\node_modules\@parcel\packager-js\lib\DevPackager.js133419370400048354 0
 61C:\laragon\www\forkify\node_modules\dotenv-expand\lib\main.js133419370458422042 0
-59C:\laragon\www\forkify\node_modules\core-js\stable\weak-map133419370451370752 1
-52C:\laragon\www\forkify\node_modules\dotenv\config.js133419370458447099 0
 69C:\laragon\www\forkify\node_modules\core-js\stable\instance\repeat.js133419370449887057 0
 69C:\laragon\www\forkify\node_modules\core-js\full\number\is-integer.js133419370441157656 0
 64C:\laragon\www\forkify\node_modules\@parcel\packager-raw\LICENSE133419370400146225 0
@@ -3464,9 +3479,6 @@
 78C:\laragon\www\forkify\node_modules\core-js\internals\ordinary-to-primitive.js133419370444320391 0
 58C:\laragon\www\forkify\node_modules\dom-serializer\LICENSE133419370457948539 0
 68C:\laragon\www\forkify\node_modules\core-js\es\symbol\description.js133419370435716177 0
-71C:\laragon\www\forkify\node_modules\core-js\modules\esnext.set.union.js133419370447769364 0
-80C:\laragon\www\forkify\node_modules\dom-serializer\node_modules\entities\LICENSE133419370458028736 0
-83C:\laragon\www\forkify\node_modules\core-js\modules\es.object.prevent-extensions.js133419370445715397 0
 83C:\laragon\www\forkify\node_modules\core-js\modules\web.dom-collections.for-each.js133419370448105676 0
 84C:\laragon\www\forkify\node_modules\caniuse-lite\data\features\keyboardevent-code.js133419370426196743 0
 85C:\laragon\www\forkify\node_modules\dom-serializer\node_modules\entities\package.json133419370458123531 0
@@ -3575,7 +3587,6 @@
 89C:\laragon\www\forkify\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133419370457816472 0
 80C:\laragon\www\forkify\node_modules\csso\node_modules\mdn-data\css\syntaxes.json133419370457841593 0
 48C:\laragon\www\forkify\node_modules\chalk\source133419370429887745 1
-77C:\laragon\www\forkify\node_modules\csso\node_modules\mdn-data\css\types.json133419370457846828 0
 77C:\laragon\www\forkify\node_modules\csso\node_modules\mdn-data\css\units.json133419370457866919 0
 84C:\laragon\www\forkify\node_modules\csso\node_modules\mdn-data\css\units.schema.json133419370457866919 0
 71C:\laragon\www\forkify\node_modules\@parcel\reporter-dev-server\LICENSE133419370400366815 0
@@ -3876,13 +3887,11 @@
 68C:\laragon\www\forkify\node_modules\core-js\internals\string-trim.js133419370444658647 0
 90C:\laragon\www\forkify\node_modules\css-select\node_modules\domutils\lib\manipulation.d.ts133419370452786837 0
 82C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133419370456190805 0
-93C:\laragon\www\forkify\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133419370389830362 0
-68C:\laragon\www\forkify\node_modules\css-tree\lib\generator\create.js133419370454450233 0
 87C:\laragon\www\forkify\node_modules\@parcel\transformer-react-refresh-wrap\package.json133419370415205914 0
 86C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\cjs\lexer\structure.cjs133419370456220787 0
 85C:\laragon\www\forkify\node_modules\@babel\highlight\node_modules\ansi-styles\license133419370388919146 0
-81C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\to-well-formed.js133419370442206401 0
 87C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133419370456090345 0
+81C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\to-well-formed.js133419370442206401 0
 86C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\cjs\generator\index.cjs133419370456100347 0
 93C:\laragon\www\forkify\node_modules\csso\node_modules\css-tree\cjs\generator\token-before.cjs133419370456120327 0
 83C:\laragon\www\forkify\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133419370424768599 0
@@ -4133,9 +4142,9 @@
 64C:\laragon\www\forkify\node_modules\css-tree\cjs\lexer\index.cjs133419370453595600 0
 81C:\laragon\www\forkify\node_modules\core-js\features\typed-array\float32-array.js133419370439125038 0
 75C:\laragon\www\forkify\node_modules\css-tree\lib\syntax\config\generator.js133419370454645923 0
-70C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\sub.js133419370442186416 0
 71C:\laragon\www\forkify\node_modules\core-js\internals\internal-state.js133419370443829561 0
 71C:\laragon\www\forkify\node_modules\css-tree\lib\syntax\config\lexer.js133419370454651017 0
+70C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\sub.js133419370442186416 0
 78C:\laragon\www\forkify\node_modules\core-js\features\disposable-stack\index.js133419370436887868 0
 81C:\laragon\www\forkify\node_modules\css-tree\lib\syntax\config\parser-selector.js133419370454661110 0
 78C:\laragon\www\forkify\node_modules\core-js\modules\es.symbol.to-string-tag.js133419370446338125 0
@@ -4161,12 +4170,16 @@
 105C:\laragon\www\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\definitions.json133419370396577507 0
 79C:\laragon\www\forkify\node_modules\core-js\features\object\set-prototype-of.js133419370438030978 0
 70C:\laragon\www\forkify\node_modules\core-js\features\instance\group.js133419370437200177 0
+93C:\laragon\www\forkify\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133419370389830362 0
+68C:\laragon\www\forkify\node_modules\css-tree\lib\generator\create.js133419370454450233 0
 74C:\laragon\www\forkify\node_modules\core-js\modules\es.string.match-all.js133419370446092328 0
 53C:\laragon\www\forkify\node_modules\caniuse-lite\data133419370427709217 1
 67C:\laragon\www\forkify\node_modules\core-js\stable\array\unshift.js133419370449338420 0
 73C:\laragon\www\forkify\node_modules\caniuse-lite\dist\unpacker\feature.js133419370429790912 0
 67C:\laragon\www\forkify\node_modules\css-tree\lib\generator\index.js133419370454460359 0
 71C:\laragon\www\forkify\node_modules\core-js\actual\iterator\for-each.js133419370431799437 0
+75C:\laragon\www\forkify\node_modules\css-tree\lib\definition-syntax\index.js133419370454420079 0
+75C:\laragon\www\forkify\node_modules\css-tree\lib\definition-syntax\parse.js133419370454430074 0
 64C:\laragon\www\forkify\node_modules\css-tree\dist\csstree.esm.js133419370454287588 0
 71C:\laragon\www\forkify\node_modules\core-js\modules\es.function.bind.js133419370445314038 0
 58C:\laragon\www\forkify\node_modules\css-tree\dist\data.cjs133419370454337572 0
@@ -4487,7 +4500,7 @@
 67C:\laragon\www\forkify\node_modules\core-js\proposals\array-last.js133419370448721668 0
 67C:\laragon\www\forkify\node_modules\caniuse-lite\data\regions\CK.js133419370428317347 0
 83C:\laragon\www\forkify\node_modules\css-select\node_modules\domutils\lib\index.d.ts133419370452730530 0
-38C:\laragon\www\forkify\dist\index.html133419433767324127 0
+38C:\laragon\www\forkify\dist\index.html133419439303548220 0
 81C:\laragon\www\forkify\node_modules\css-select\node_modules\domutils\lib\index.js133419370452740538 0
 85C:\laragon\www\forkify\node_modules\css-select\node_modules\domutils\lib\index.js.map133419370452746750 0
 69C:\laragon\www\forkify\node_modules\core-js\actual\typed-array\map.js133419370433550574 0
@@ -5435,8 +5448,8 @@
 86C:\laragon\www\forkify\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133419370415899314 0
 68C:\laragon\www\forkify\node_modules\core-js\es\date\to-iso-string.js133419370434248099 0
 71C:\laragon\www\forkify\node_modules\core-js\modules\es.string.substr.js133419370446177603 0
-77C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim-right.js133419370442226398 0
 81C:\laragon\www\forkify\node_modules\core-js\internals\array-buffer-byte-length.js133419370442961187 0
+77C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim-right.js133419370442226398 0
 73C:\laragon\www\forkify\node_modules\core-js\actual\string\virtual\link.js133419370432896982 0
 68C:\laragon\www\forkify\node_modules\core-js\modules\es.string.sup.js133419370446177603 0
 64C:\laragon\www\forkify\node_modules\core-js\es\string\italics.js133419370435339999 0
@@ -5727,10 +5740,10 @@
 70C:\laragon\www\forkify\node_modules\core-js\actual\number\parse-int.js133419370432083425 0
 84C:\laragon\www\forkify\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133419370400850417 0
 65C:\laragon\www\forkify\node_modules\core-js\internals\set-size.js133419370444528470 0
+99C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\index.js133419370399965842 0
 68C:\laragon\www\forkify\node_modules\core-js\internals\descriptors.js133419370443408053 0
 69C:\laragon\www\forkify\node_modules\core-js\features\function\bind.js133419370436948138 0
 77C:\laragon\www\forkify\node_modules\core-js\actual\reflect\define-property.js133419370432378515 0
-99C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\index.js133419370399965842 0
 67C:\laragon\www\forkify\node_modules\caniuse-lite\data\regions\MU.js133419370428981211 0
 69C:\laragon\www\forkify\node_modules\core-js\internals\document-all.js133419370443418044 0
 80C:\laragon\www\forkify\node_modules\core-js\internals\dom-exception-constants.js133419370443443111 0
@@ -5892,8 +5905,6 @@
 53C:\laragon\www\forkify\node_modules\core-js\full\json133419370440801257 1
 75C:\laragon\www\forkify\node_modules\@swc\helpers\_\_instanceof\package.json133419370421628705 0
 52C:\laragon\www\forkify\node_modules\core-js\full\map133419370440909975 1
-88C:\laragon\www\forkify\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133419370400786691 0
-53C:\laragon\www\forkify\node_modules\core-js\full\math133419370441119492 1
 63C:\laragon\www\forkify\node_modules\core-js\full\parse-float.js133419370441395649 0
 61C:\laragon\www\forkify\node_modules\core-js\full\parse-int.js133419370441402130 0
 98C:\laragon\www\forkify\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json133419370401521273 0
@@ -6022,6 +6033,7 @@
 73C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\strike.js133419370442186416 0
 71C:\laragon\www\forkify\node_modules\caniuse-lite\dist\unpacker\index.js133419370429800907 0
 70C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\sup.js133419370442196416 0
+75C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim-end.js133419370442216396 0
 77C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim-start.js133419370442226398 0
 71C:\laragon\www\forkify\node_modules\core-js\full\string\virtual\trim.js133419370442226398 0
 66C:\laragon\www\forkify\node_modules\core-js\full\set\delete-all.js133419370441671040 0
@@ -6369,7 +6381,7 @@
 78C:\laragon\www\forkify\node_modules\core-js\features\object\define-property.js133419370437905548 0
 79C:\laragon\www\forkify\node_modules\core-js\full\array\virtual\filter-reject.js133419370439745634 0
 72C:\laragon\www\forkify\node_modules\core-js\full\array\virtual\filter.js133419370439750698 0
-50C:\laragon\www\forkify\dist\index.f7626f62.css.map133419437300599449 0
+50C:\laragon\www\forkify\dist\index.f7626f62.css.map133419446930380599 0
 81C:\laragon\www\forkify\node_modules\core-js\full\array\virtual\find-last-index.js133419370439760797 0
 75C:\laragon\www\forkify\node_modules\core-js\full\array\virtual\find-last.js133419370439760797 0
 70C:\laragon\www\forkify\node_modules\core-js\full\array\virtual\find.js133419370439770878 0
@@ -6425,7 +6437,7 @@
 68C:\laragon\www\forkify\node_modules\core-js\features\dom-collections133419370436887868 1
 66C:\laragon\www\forkify\node_modules\core-js\features\dom-exception133419370436948138 1
 64C:\laragon\www\forkify\node_modules\core-js\es\array\includes.js133419370433866304 0
-46C:\laragon\www\forkify\dist\icons.dfd7a6db.svg133419437300468989 0
+46C:\laragon\www\forkify\dist\icons.dfd7a6db.svg133419446930244696 0
 62C:\laragon\www\forkify\node_modules\core-js\features\escape.js133419370436948138 0
 75C:\laragon\www\forkify\node_modules\core-js\features\get-iterator-method.js133419370437052716 0
 78C:\laragon\www\forkify\node_modules\caniuse-lite\data\features\css3-tabsize.js133419370425158794 0
@@ -7332,7 +7344,6 @@
 112C:\laragon\www\forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node133419370401420315 0
 62C:\laragon\www\forkify\node_modules\core-js\actual\unescape.js133419370433695389 0
 54C:\laragon\www\forkify\node_modules\core-js\actual\url133419370433715427 1
-68C:\laragon\www\forkify\node_modules\core-js\actual\url-search-params133419370433705424 1
 59C:\laragon\www\forkify\node_modules\core-js\actual\weak-map133419370433725420 1
 59C:\laragon\www\forkify\node_modules\core-js\actual\weak-set133419370433725420 1
 68C:\laragon\www\forkify\node_modules\core-js\actual\weak-set\index.js133419370433725420 0
@@ -7373,7 +7384,6 @@
 72C:\laragon\www\forkify\node_modules\core-js\actual\typed-array\values.js133419370433685424 0
 74C:\laragon\www\forkify\node_modules\core-js\actual\symbol\async-dispose.js133419370433042737 0
 72C:\laragon\www\forkify\node_modules\core-js\actual\symbol\description.js133419370433053363 0
-69C:\laragon\www\forkify\node_modules\core-js\actual\symbol\iterator.js133419370433093464 0
 68C:\laragon\www\forkify\node_modules\core-js\actual\symbol\key-for.js133419370433113493 0
 70C:\laragon\www\forkify\node_modules\core-js\actual\symbol\match-all.js133419370433123473 0
 66C:\laragon\www\forkify\node_modules\core-js\actual\symbol\match.js133419370433203891 0
@@ -7585,7 +7595,6 @@
 97C:\laragon\www\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts133419370398300101 0
 75C:\laragon\www\forkify\node_modules\core-js\actual\array-buffer\transfer.js133419370430355403 0
 62C:\laragon\www\forkify\node_modules\core-js\actual\array\at.js133419370430365552 0
-97C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js133419370399985941 0
 71C:\laragon\www\forkify\node_modules\core-js\actual\array\copy-within.js133419370430375564 0
 65C:\laragon\www\forkify\node_modules\core-js\actual\array\every.js133419370430385537 0
 81C:\laragon\www\forkify\node_modules\@swc\helpers\esm\_class_private_method_set.js133419370422571760 0
@@ -8347,8 +8356,8 @@
 62C:\laragon\www\forkify\node_modules\@parcel\compressor-raw\src133419370390350201 1
 61C:\laragon\www\forkify\node_modules\@swc\helpers\src\_set.mjs133419370423307952 0
 73C:\laragon\www\forkify\node_modules\@swc\helpers\src\_sliced_to_array.mjs133419370423319163 0
-79C:\laragon\www\forkify\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133419370423329176 0
 92C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133419370399975918 1
+79C:\laragon\www\forkify\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133419370423329176 0
 87C:\laragon\www\forkify\node_modules\@swc\helpers\src\_tagged_template_literal_loose.mjs133419370423344253 0
 69C:\laragon\www\forkify\node_modules\@swc\helpers\src\_ts_decorate.mjs133419370423379524 0
 69C:\laragon\www\forkify\node_modules\@swc\helpers\src\_ts_metadata.mjs133419370423390866 0
@@ -8726,6 +8735,7 @@
 90C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0133419370399965842 1
 101C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\index.js133419370399975918 0
 105C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json133419370399975918 0
+97C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js133419370399985941 0
 101C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\peers\package.json133419370399985941 0
 103C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json133419370399965842 0
 94C:\laragon\www\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\package.json133419370399941435 0
@@ -9595,13 +9605,13 @@
 63C:\laragon\www\forkify\node_modules\.bin\update-browserslist-db133419370387354477 0
 67C:\laragon\www\forkify\node_modules\.bin\update-browserslist-db.cmd133419370387361061 0
 48C:\laragon\www\forkify\dist\favicon.f98b6865.png133419370386717168 0
-46C:\laragon\www\forkify\dist\icons.21bad73c.svg133419437300468989 0
+46C:\laragon\www\forkify\dist\icons.21bad73c.svg133419446930244696 0
 46C:\laragon\www\forkify\dist\icons.c14567a0.svg133419370386727205 0
 45C:\laragon\www\forkify\dist\index.300b1617.js133419370386727205 0
 49C:\laragon\www\forkify\dist\index.300b1617.js.map133419370386767791 0
 45C:\laragon\www\forkify\dist\index.62406edb.js133419370386777828 0
 50C:\laragon\www\forkify\dist\index.628a78b8.css.map133419370386797784 0
-49C:\laragon\www\forkify\dist\index.e37f48ea.js.map133419437300800416 0
-46C:\laragon\www\forkify\dist\index.f7626f62.css133419437300468989 0
-45C:\laragon\www\forkify\dist\logo.726d37a8.png133419437300649876 0
+49C:\laragon\www\forkify\dist\index.e37f48ea.js.map133419447288584411 0
+46C:\laragon\www\forkify\dist\index.f7626f62.css133419446930254654 0
+45C:\laragon\www\forkify\dist\logo.726d37a8.png133419446930299887 0
 45C:\laragon\www\forkify\dist\logo.8f52e69c.png133419370386877995 0

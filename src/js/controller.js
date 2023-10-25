@@ -34,7 +34,8 @@ const controllerRecipes = async function () {
 };
 controllerRecipes();
 
-['hashchange', 'load'].forEach(ev => window.addEventListener(ev, controllerRecipes));
+['hashchange', 'load'].forEach(ev => 
+  window.addEventListener(ev, controllerRecipes));
 
 // window.addEventListener('hashchange', controllerRecipes)
 // window.addEventListener('load', controllerRecipes)

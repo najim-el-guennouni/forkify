@@ -30,6 +30,7 @@ const controllerRecipes = async function () {
     
   } catch (err) {
     console.log(err);
+    recipeView.renderError();
   }
 };
 // controllerRecipes();

@@ -34,6 +34,7 @@ const controllerRecipes = async function () {
     console.log(err);
     recipeView.renderError();
   }
+  
 };
 
 
@@ -64,13 +65,24 @@ const controlPagpnation = function(goToPage){
     resultsView.render(model.getSearchResultsPage(goToPage));
     
     //2) Render new pagination button
-    paginationView.render(model.state.search)}
+    paginationView.render(model.state.search)
+}
 
+const controlServings = function(newServings){
+  // Update the recipe serving ( in state )
+  model.updateServings(newServings)
+  
+  //Update the recipe view
+  recipeView.render(model.state.recipe);
+  
+}
 
 
 const init = function(){
   recipeView.addHandlerRender(controllerRecipes);
+  recipeView.addHandlerUpdateServings(controlServings)
   searchView.addHandlerSearch(controlSearchResults)
   paginationView.addHandlerClick(controlPagpnation)
+  // controlServings();
 }
 init();

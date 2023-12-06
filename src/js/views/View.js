@@ -2,6 +2,13 @@ import icons from 'url:../../img/icons.svg';
 
 export default class View {
   _data;
+  
+  /**
+   * Render the recived obkect to the DOM
+   * @param {Object | Object[]} data the data to be rendered (e.g. recipe)
+   * @param {boolean} [render = true]  if false , create markup string instead of readering to the DOM
+   * @returns 
+   */
 
   render(data,render = true) {
     if (!data || (Array.isArray(data) && data.length === 0))
